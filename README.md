@@ -1,11 +1,12 @@
 # CourierManagementSystem
- Language:
+
+Language:
  Java
  (version 12)
  
  Obeject Oriented Programming Concept is used
  
- Project Description:
+ # Project Description:
  
  -Works with 2 entities viz.. 1) Customer and  2) Employee
  
@@ -19,7 +20,7 @@
  
  -Employee will Randomly assign a delivery person to each package which will be appended in the file 
  
- How to Run?
+ # How to Run?
  
  -In Command Prompt, open CourierManagementSystem folder
  
